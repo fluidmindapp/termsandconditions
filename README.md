@@ -1,6 +1,8 @@
 <h1 align="center">FluidMind Terms and Conditions</h1>
 
-These terms and conditions for FluidMind constitute a legal agreement and are entered into by and between you, the user (“you”, “your”) and Euthymia Technologies (“we”, “us”, “our”). The following terms and conditions, together with any documents and/or additional terms incorporated by reference (collectively, “Terms and Conditions”), govern your access to and use of, any content, functionality, and services offered on or through FluidMind (the “App”).
+Effective Date: 03/04/24
+
+These terms and conditions for FluidMind constitute a legal agreement and are entered into by and between you, the user (“you”, “your”) and Euthymia Technologies (“we”, “us”, “our”). The following terms and conditions, and Privacy Policy, (collectively, “Terms and Conditions”), govern your access to and use of, any content, functionality, and services offered on or through FluidMind (the “App”).
 
 By using this App, you represent and warrant that you are of the legal age of majority under applicable law to form a binding contract with Euthymia Technologies and meet all the foregoing eligibility requirements. If you are a minor, you must not access or use the App.
 
@@ -57,30 +59,36 @@ By using this App, you represent and warrant that you are of the legal age of ma
 
 *5.1.* To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Euthymia Technologies from and against any claims, liabilities, damages, judgements, awards, losses, costs, expenses, or fees (including reasonable legal fees) arising out of or relating to your breach of these Terms and Conditions or your use of the App, including, but not limited to, any use of the App’s content or services other than as expressly authorized in these Terms and Conditions.
 
-### 6. Governing Law and Jurisdiction
+### 6. Privacy
 
-*6.1.* The App and these Terms and Conditions will be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein, without giving effect to any choice or conflict of law provision, principle, or rule (whether of the laws of the Province of Ontario or any other jurisdiction) and notwithstanding your domicile, residence, or physical location.
+*6.1.* By using this App, you consent to the collection, use, and disclosure of information that you provide in compliance with our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy), as we deem necessary for use of the App and provision of services.
 
-*6.2.* Any action or proceeding arising out of or relating to this App and under these Terms and Conditions will be commenced in the courts of the Province of Ontario and/or the Federal Court of Canada. Each party irrevocably submits to the exclusive jurisdiction of such courts in any such action or proceeding. You waive any and all objections to the exercise of jurisdiction over you by such courts and to the venue of such courts.
+*6.2.* By using this App, you consent to the use of cookies. You may set your mobile device settings to turn off cookies. If you do, however, some areas of the App may not function adequately. For more information on automated information gathering practices, please see “Automated Information Collection and Tracking Technologies” in our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy).
 
-*6.3.* Except as otherwise set forth in these Terms and Conditions, no failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from these Terms and Conditions operates, or may be construed, as a waiver thereof; and no single or partial exercise of any right, remedy, power, or privilege hereunder precludes any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+### 7. Governing Law and Jurisdiction
 
-*6.4.* The owner of this App is based in Ontario, Canada. We provide this App for use only by persons located in Canada. This App is not intended for use in any jurisdiction where its use is not permitted. If you access the App from outside Canada, you do so at your own risk and you are responsible for compliance with local laws of your jurisdiction.
+*7.1.* The App and these Terms and Conditions will be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein, without giving effect to any choice or conflict of law provision, principle, or rule (whether of the laws of the Province of Ontario or any other jurisdiction) and notwithstanding your domicile, residence, or physical location.
 
-### 7. Severability
+*7.2.* Any action or proceeding arising out of or relating to this App and under these Terms and Conditions will be commenced in the courts of the Province of Ontario and/or the Federal Court of Canada. Each party irrevocably submits to the exclusive jurisdiction of such courts in any such action or proceeding. You waive any and all objections to the exercise of jurisdiction over you by such courts and to the venue of such courts.
 
-*7.1.* If any term or provision of these Terms and Conditions is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of these Terms and Conditions or invalidate or render unenforceable such term or provision in any other jurisdiction.
+*7.3.* Except as otherwise set forth in these Terms and Conditions, no failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from these Terms and Conditions operates, or may be construed, as a waiver thereof; and no single or partial exercise of any right, remedy, power, or privilege hereunder precludes any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
 
-### 8. Modifications
+*7.4.* The owner of this App is based in Ontario, Canada. We provide this App for use only by persons located in Canada. This App is not intended for use in any jurisdiction where its use is not permitted. If you access the App from outside Canada, you do so at your own risk and you are responsible for compliance with local laws of your jurisdiction.
 
-*8.1.* We reserve the right in our sole discretion to revise and update these Terms and Conditions. Any and all such modifications are effective immediately upon posting and apply to all access to and continued use of the App. You agree to periodically review these Terms and Conditions to be aware of any such modifications and your continued use shall be your acceptance of these.
+### 8. Severability
 
-*8.2.* The information and material on this App may be changed, withdrawn, or terminated at any time in our sole discretion without notice. We will not be liable if, for any reason, all or any part of the App is restricted to users or unavailable at any time or for any period.
+*8.1.* If any term or provision of these Terms and Conditions is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of these Terms and Conditions or invalidate or render unenforceable such term or provision in any other jurisdiction.
 
-### 9. Entire Agreement
+### 9. Modifications
 
-*9.1.* These Terms and Conditions constitute the sole and entire agreement between you and Euthymia Technologies regarding the App and supersedes all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, regarding such subject matter.
+*9.1.* We reserve the right in our sole discretion to revise and update these Terms and Conditions. Any and all such modifications are effective immediately upon posting and apply to all access to and continued use of the App. You agree to periodically review these Terms and Conditions to be aware of any such modifications and your continued use shall be your acceptance of these.
 
-### 10. Contact
+*9.2.* The information and material on this App may be changed, withdrawn, or terminated at any time in our sole discretion without notice. We will not be liable if, for any reason, all or any part of the App is restricted to users or unavailable at any time or for any period.
 
-*10.1.* This App is operated by Euthymia Technologies. Any feedback, comments, requests for technical support, and other communications relating to the App should be directed to fluidmindapp@gmail.com.
+### 10. Entire Agreement
+
+*10.1.* These Terms and Conditions constitute the sole and entire agreement between you and Euthymia Technologies regarding the App and supersedes all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, regarding such subject matter.
+
+### 11. Contact
+
+*11.1.* This App is operated by Euthymia Technologies. Any feedback, comments, requests for technical support, and other communications relating to the App should be directed to [fluidmindapp@gmail.com](mailto:fluidmindapp@gmail.com).
