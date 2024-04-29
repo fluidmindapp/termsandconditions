@@ -1,6 +1,6 @@
 <h1 align="center">FluidMind Terms and Conditions</h1>
 
-Effective Date: 03/04/24
+Effective Date: April 29, 2024
 
 These terms and conditions for FluidMind constitute a legal agreement and are entered into by and between you, the user (“you”, “your”) and Euthymia Technologies (“we”, “us”, “our”). The following terms and conditions, and Privacy Policy, (collectively, “Terms and Conditions”), govern your access to and use of, any content, functionality, and services offered on or through FluidMind (the “App”).
 
@@ -61,7 +61,7 @@ By using this App, you represent and warrant that you are of the legal age of ma
 
 ### 6. Privacy
 
-*6.1.* By using this App, you consent to the collection, use, and disclosure of information that you provide in compliance with our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy), as we deem necessary for use of the App and provision of services.
+*6.1.* By using this App, you consent to the collection, use, and disclosure of information that you provide in compliance with our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy), as we deem necessary for use of the App, provision of services, and displaying advertisements. For further information on the App’s collection of your information, please see “INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT” in our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy).
 
 *6.2.* By using this App, you consent to the use of cookies. You may set your mobile device settings to turn off cookies. If you do, however, some areas of the App may not function adequately. For more information on automated information gathering practices, please see “Automated Information Collection and Tracking Technologies” in our [Privacy Policy](https://euthymiatechnologies.com/privacy-policy).
 
